@@ -9,8 +9,6 @@ Discord Rich Presence</h3>
 
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/kunseru/vtm-bloodhunt-rpc/total) ![Contributors](https://img.shields.io/github/contributors/kunseru/vtm-bloodhunt-rpc?color=dark-green) ![Issues](https://img.shields.io/github/issues/kunseru/vtm-bloodhunt-rpc) 
-
 ## About The Project
 
 Games often integrate Discord Rich Presence (RPC) to enhance the gaming experience and allow players to showcase their in-game activities to friends and communities on Discord. Discord RPC offers several benefits:
