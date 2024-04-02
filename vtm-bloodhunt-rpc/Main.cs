@@ -27,6 +27,10 @@ namespace vtm_bloodhunt_rpc
                 LargeImageKey = "bloodhunt",
                 LargeImageText = "Vampire: The Masquerade - Bloodhunt"
             },
+            Timestamps = new Timestamps()
+            {
+                Start = DateTime.UtcNow
+            },
             Buttons = new DiscordRPC.Button[]
             {
                 new DiscordRPC.Button() { Label = "Play Bloodhunt!", Url = "https://bloodhunt.com" }
